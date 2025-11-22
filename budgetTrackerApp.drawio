@@ -57,7 +57,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IiIaOgAFldvG-kZabZOp" name="applicationArchitecture">
-    <mxGraphModel dx="1341" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,10 +65,10 @@
           <mxGeometry height="30" width="400" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="540" width="690" x="30" y="70" as="geometry" />
+          <mxGeometry height="540" width="950" x="30" y="70" as="geometry" />
         </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-2" parent="Ib-8o8CX9omPzmgzwD2o-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="40" width="690" as="geometry" />
+          <mxGeometry height="40" width="950" as="geometry" />
         </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-3" parent="Ib-8o8CX9omPzmgzwD2o-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Write operation&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="210" as="geometry">
@@ -85,8 +85,13 @@
             <mxRectangle height="40" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-51" parent="Ib-8o8CX9omPzmgzwD2o-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="40" width="260" x="690" as="geometry">
+            <mxRectangle height="40" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-6" parent="Ib-8o8CX9omPzmgzwD2o-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="100" width="690" y="40" as="geometry" />
+          <mxGeometry height="100" width="950" y="40" as="geometry" />
         </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-7" parent="Ib-8o8CX9omPzmgzwD2o-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;1. Get the input amount the user has spent in a day&lt;/span&gt;" vertex="1">
           <mxGeometry height="100" width="210" as="geometry">
@@ -103,8 +108,13 @@
             <mxRectangle height="100" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-52" parent="Ib-8o8CX9omPzmgzwD2o-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="100" width="260" x="690" as="geometry">
+            <mxRectangle height="100" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-10" parent="Ib-8o8CX9omPzmgzwD2o-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="200" width="690" y="140" as="geometry" />
+          <mxGeometry height="200" width="950" y="140" as="geometry" />
         </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-11" parent="Ib-8o8CX9omPzmgzwD2o-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;2.&amp;nbsp; Save it in the database&lt;/span&gt;" vertex="1">
           <mxGeometry height="200" width="210" as="geometry">
@@ -121,8 +131,13 @@
             <mxRectangle height="200" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-53" parent="Ib-8o8CX9omPzmgzwD2o-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="200" width="260" x="690" as="geometry">
+            <mxRectangle height="200" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-14" parent="Ib-8o8CX9omPzmgzwD2o-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="200" width="690" y="340" as="geometry" />
+          <mxGeometry height="200" width="950" y="340" as="geometry" />
         </mxCell>
         <mxCell id="Ib-8o8CX9omPzmgzwD2o-15" parent="Ib-8o8CX9omPzmgzwD2o-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;3.&amp;nbsp; Reload the page with total spent amount.&amp;nbsp; And display the remaining amount&lt;/span&gt;" vertex="1">
           <mxGeometry height="200" width="210" as="geometry">
@@ -134,8 +149,33 @@
             <mxRectangle height="200" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ib-8o8CX9omPzmgzwD2o-17" parent="Ib-8o8CX9omPzmgzwD2o-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="3.&amp;nbsp; Response returned with&lt;br&gt;updated date" vertex="1">
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-17" parent="Ib-8o8CX9omPzmgzwD2o-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="3.&amp;nbsp; Response returned with&lt;br&gt;updated data" vertex="1">
           <mxGeometry height="200" width="260" x="430" as="geometry">
+            <mxRectangle height="200" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-54" parent="Ib-8o8CX9omPzmgzwD2o-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="200" width="260" x="690" as="geometry">
+            <mxRectangle height="200" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-55" parent="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;b&gt;Delete operation&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="260" x="720" y="70" as="geometry">
+            <mxRectangle height="40" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-56" parent="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="1. User deletes the data from the app" vertex="1">
+          <mxGeometry height="100" width="260" x="720" y="110" as="geometry">
+            <mxRectangle height="100" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-57" parent="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="2. Server get&#39;s the input and delete&#39;s the record" vertex="1">
+          <mxGeometry height="200" width="260" x="720" y="210" as="geometry">
+            <mxRectangle height="200" width="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ib-8o8CX9omPzmgzwD2o-58" parent="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="3.&amp;nbsp; Response returned with&lt;br&gt;updated data" vertex="1">
+          <mxGeometry height="200" width="260" x="720" y="410" as="geometry">
             <mxRectangle height="200" width="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
