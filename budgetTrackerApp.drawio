@@ -78,6 +78,52 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="630" width="650" x="90" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-4" edge="1" parent="1" source="wfT3lZVe1rZ_pLyM7peK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wfT3lZVe1rZ_pLyM7peK-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Login page" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-16" edge="1" parent="1" source="wfT3lZVe1rZ_pLyM7peK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wfT3lZVe1rZ_pLyM7peK-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="340" />
+              <mxPoint x="180" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-17" edge="1" parent="1" source="wfT3lZVe1rZ_pLyM7peK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wfT3lZVe1rZ_pLyM7peK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-18" edge="1" parent="1" source="wfT3lZVe1rZ_pLyM7peK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wfT3lZVe1rZ_pLyM7peK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-19" edge="1" parent="1" source="wfT3lZVe1rZ_pLyM7peK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wfT3lZVe1rZ_pLyM7peK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-3" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Dashboard" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="260" as="geometry" />
+        </mxCell>
+        <UserObject label="Create account page" link="https://www.figma.com/design/qOSQbrKQ94wIpnzRwzzc8b/Budget-tracker?node-id=0-1" id="wfT3lZVe1rZ_pLyM7peK-5">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="160" y="130" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add/remove expenses to expenditure" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="History of Previous expenditure" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add opening balance" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="wfT3lZVe1rZ_pLyM7peK-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create/modify expenditure" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
