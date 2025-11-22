@@ -21,14 +21,17 @@
         <mxCell id="PaChRXVqpsrJXoQR10V--1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User can do the following things with the budget tracker application" vertex="1">
           <mxGeometry height="30" width="460" x="140" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="d5Zr2X8wrEZYWp8cqd0p-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.&amp;nbsp; Create an account for himself in the application." vertex="1">
-          <mxGeometry height="30" width="320" x="240" y="450" as="geometry" />
+        <mxCell id="d5Zr2X8wrEZYWp8cqd0p-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.&amp;nbsp; Create an account for himself in the application. Login to the application with his credentials" vertex="1">
+          <mxGeometry height="30" width="320" x="220" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="d5Zr2X8wrEZYWp8cqd0p-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.&amp;nbsp; He can create his own expenditure style in the application.&amp;nbsp; He can add and delete." vertex="1">
-          <mxGeometry height="30" width="340" x="255" y="480" as="geometry" />
+        <mxCell id="d5Zr2X8wrEZYWp8cqd0p-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.&amp;nbsp; He can create his own expenditure style in the application.&amp;nbsp; He can add and delete." vertex="1">
+          <mxGeometry height="30" width="340" x="220" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="d5Zr2X8wrEZYWp8cqd0p-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3. He can add or delete expense to individual expenditure" vertex="1">
-          <mxGeometry height="30" width="370" x="240" y="520" as="geometry" />
+        <mxCell id="d5Zr2X8wrEZYWp8cqd0p-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4. He can add or delete expense to individual expenditure" vertex="1">
+          <mxGeometry height="30" width="370" x="190" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="NRvCjSkMoE5hjFD0coMB-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.&amp;nbsp; He can add the opening balance for a specific period of time" vertex="1">
+          <mxGeometry height="30" width="340" x="220" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -371,6 +374,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-4" edge="1" parent="1" source="5vrVjVfUASCEAiJjBxfs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5vrVjVfUASCEAiJjBxfs-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-1" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="input from Api" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="wQ6vTiOWJBcOu7GJW0lB-4" edge="1" parent="1" source="5vrVjVfUASCEAiJjBxfs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wQ6vTiOWJBcOu7GJW0lB-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="430" x="230" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-10" edge="1" parent="1" source="5vrVjVfUASCEAiJjBxfs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5vrVjVfUASCEAiJjBxfs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="1. Service layer" link="data:page/id,IiIaOgAFldvG-kZabZOp" id="5vrVjVfUASCEAiJjBxfs-5">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="260" y="330" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-11" edge="1" parent="1" source="5vrVjVfUASCEAiJjBxfs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5vrVjVfUASCEAiJjBxfs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2. Business logic layor" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Dao objects" vertex="1">
+          <mxGeometry height="60" width="120" x="515" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-13" edge="1" parent="1" source="5vrVjVfUASCEAiJjBxfs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5vrVjVfUASCEAiJjBxfs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vrVjVfUASCEAiJjBxfs-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.&amp;nbsp; Database access layer" vertex="1">
+          <mxGeometry height="60" width="120" x="265" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="wQ6vTiOWJBcOu7GJW0lB-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Backend architecture" vertex="1">
+          <mxGeometry height="30" width="60" x="385" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="wQ6vTiOWJBcOu7GJW0lB-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="DB" vertex="1">
+          <mxGeometry height="80" width="60" x="750" y="420" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
