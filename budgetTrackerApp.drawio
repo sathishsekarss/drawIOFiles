@@ -131,6 +131,12 @@
             <mxGeometry height="60" width="120" x="140" y="590" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Qa7rdhzQGgKuGSYxTLP4-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Front-end tech stacks" vertex="1">
+          <mxGeometry height="30" width="230" x="110" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa7rdhzQGgKuGSYxTLP4-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Angular" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="790" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -182,6 +188,18 @@
             <mxGeometry height="80" width="60" x="730" y="435" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="9i6iH2bKpuH4NCsmGpom-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Backend tech stacks" vertex="1">
+          <mxGeometry height="30" width="270" x="60" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="9i6iH2bKpuH4NCsmGpom-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Spring boot" vertex="1">
+          <mxGeometry height="30" width="250" x="70" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="9i6iH2bKpuH4NCsmGpom-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hibernate" vertex="1">
+          <mxGeometry height="30" width="250" x="70" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="9i6iH2bKpuH4NCsmGpom-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MongoDB for database" vertex="1">
+          <mxGeometry height="30" width="250" x="70" y="890" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
