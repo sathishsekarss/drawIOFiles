@@ -79,7 +79,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wfT3lZVe1rZ_pLyM7peK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="630" width="650" x="90" y="70" as="geometry" />
+          <mxGeometry height="630" width="650" x="95" y="70" as="geometry" />
         </mxCell>
         <mxCell id="wfT3lZVe1rZ_pLyM7peK-4" edge="1" parent="1" source="wfT3lZVe1rZ_pLyM7peK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wfT3lZVe1rZ_pLyM7peK-3" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
         </mxCell>
         <UserObject label="Logout page" link="https://www.figma.com/design/qOSQbrKQ94wIpnzRwzzc8b/Budget-tracker?node-id=0-1" id="HGbSWT9bmIlBJPFeaKqd-1">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
-            <mxGeometry height="60" width="120" x="140" y="590" as="geometry" />
+            <mxGeometry height="60" width="120" x="580" y="590" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Qa7rdhzQGgKuGSYxTLP4-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Front-end tech stacks" vertex="1">
@@ -137,6 +137,11 @@
         <mxCell id="Qa7rdhzQGgKuGSYxTLP4-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Angular" vertex="1">
           <mxGeometry height="30" width="60" x="170" y="790" as="geometry" />
         </mxCell>
+        <UserObject label="Settings page" link="https://www.figma.com/design/qOSQbrKQ94wIpnzRwzzc8b/Budget-tracker?node-id=0-1" id="PyXFhAo7-9tLXPjhqgej-1">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="120" y="590" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
